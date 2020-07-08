@@ -1,0 +1,14 @@
+{
+  "name": "quick-preview",
+  "version": "1.0.0",
+  "description": "Generates Preview Of Stickers",
+  "main": "index.js",
+  "author": "javid.izadfar@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
